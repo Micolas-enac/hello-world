@@ -10,7 +10,7 @@ I ADDED AND removed SOMETHING MICOTEST
 
 ## Repositories
 
-THIS IS NON CONFLICT MODIF
+THIS IS NON CONFLICT after COMMIT change new stuffs MICOTEST
 
 Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
 
