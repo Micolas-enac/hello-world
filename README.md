@@ -2,11 +2,11 @@
 
 Et voici ma nouvelle modif
 
-MY CONFLICT IN DEV1 and new words
+MY CONFLICT IN DEV1 and new words ce sont des micoTESTS
 
 THIS IS ANOTHER MODIF
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
-I ADDED SOMETHING
+I ADDED AND removed SOMETHING MICOTEST
 
 ## Repositories
 
