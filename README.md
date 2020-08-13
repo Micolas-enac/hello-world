@@ -2,7 +2,7 @@
 
 Et voici ma nouvelle modif
 
-MY CONFLICT IN DEV1 and new words ce sont des micoTESTS
+MY CONFLICT IN DEV1 and new words ce sont des micoTESTS (Ajout pour picoTests)
 
 THIS IS ANOTHER MODIF
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
